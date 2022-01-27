@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Klienti" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAhAAAAEEAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="obmenValut" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAgBAAAAAAIAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="vkladi" Collapsed="true">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAEAAAAAAABAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="srochnie" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doVostreb" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAACAAQAAAAACAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="krediti" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAIBAAAEAABAAEAAAAAAABAAAAQAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="potrebitelskieKrediti" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ipotechnieKrediti" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>klienti.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sotrudniki" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAABABAAAACCAAAQAAAAAAAQBAAAAAAAAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="genDirector" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="admnistraciya" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bezopasnosti" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABBAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="poRaboteSKlientami" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAABAAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="analitiki" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAACAAAAAAAAAABAAAAAAAAAkAAAAAAE=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Doljnosti" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAABAACAQAAAAAIAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Otdeli" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAASAAAAAAAAAAAAAQAAAAAAgAAAAA=</HashCode>
+      <FileName>Sotrudniki.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
